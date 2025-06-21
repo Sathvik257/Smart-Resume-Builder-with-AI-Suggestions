@@ -55,71 +55,77 @@ A sleek, AI-powered web application that helps users generate professional resum
 
 ---
 
-Open index.html in Browser
 
-Just double-click the index.html file
-OR
+---
 
-Use Live Server in VS Code
+## 🧪 How to Use
 
-Click Create Resume
+1. **Open `index.html` in Browser**
+   - Just double-click the `index.html` file  
+   **OR**  
+   - Use **Live Server** in VS Code
 
-Fill in the form sections
+2. **Click `Create Resume`**
+   - Fill in the form sections
+   - Use the ✨ **AI Suggest** buttons to auto-generate content
+   - Live preview updates in real time
 
-Use the ✨ AI Suggest buttons to auto-generate content
+3. **Choose a Template**
+   - Pick from **Modern**, **Classic**, **Minimal**, or **Professional**
 
-Live preview updates in real time
+4. **Click `Generate Resume`**
+   - The resume will be downloaded as a **PDF**
 
-Choose a Template
+5. **Optional: Save Progress**
+   - Click **Save Draft** to store your data in **Local Storage**
 
-Pick from Modern, Classic, Minimal, or Professional
+---
 
-Click Generate Resume
+## 🧠 AI Suggestion Logic
 
-The resume will be downloaded as a PDF
-
-Optional: Save Progress
-
-Click Save Draft to store your data in local storage
-
-🧠 AI Suggestion Logic
 The app includes a predefined list of suggestions for:
 
-✅ Professional summaries
+- ✅ **Professional summaries**
+- ✅ **Work experiences**
+- ✅ **Technical skills**
+- ✅ **Projects**
 
-✅ Work experiences
+These are stored in `script.js` as static arrays and randomized when clicked.
 
-✅ Technical skills
+---
 
-✅ Projects
+## 📦 CDN Dependencies
 
-These are stored in script.js as static arrays and randomized when clicked.
+- **Font Awesome** – Icon set  
+- **Google Fonts (Inter)** – Clean, modern typography  
+- **html2pdf.js** – Client-side PDF export  
 
-📦 CDN Dependencies
-Font Awesome – Icon set
+> All dependencies are loaded via CDN — no installation required.
 
-Google Fonts (Inter) – Clean, modern typography
+---
 
-html2pdf.js – Client-side PDF export
+## 📱 Responsive Design
 
-All dependencies are loaded via CDN — no installation required.
-
-📱 Responsive Design
 The application adapts beautifully across:
 
-✔️ Mobile phones
+- ✔️ **Mobile phones**
+- ✔️ **Tablets**
+- ✔️ **Desktops**
 
-✔️ Tablets
+Animations, transitions, and theme-based components enhance the user experience.
 
-✔️ Desktops
+---
 
-Animations, transitions, and theme-based components enhance the UX experience.
+## 📜 License
 
-📜 License
-This project is open-sourced for educational purposes.
+This project is open-sourced for **educational purposes**.  
 You are free to extend, customize, and improve it.
 
-✍️ Author
-Developed with ❤️ by Sathvik Polisetty
+---
+
+## ✍️ Author
+
+Developed  by **Sathvik Polisetty**  
+📧 [polisettysathvik@gmail.com](mailto:polisettysathvik@gmail.com)  
 📞 6281254968
 
